@@ -1,0 +1,162 @@
+[
+     {
+          "exerciseName": "INDOOR_TRACK_RUN",
+          "weightValue": null,
+          "reps": null
+     },
+     {
+          "exerciseName": "WEIGHTED_ELEVATED_FEET_RUSSIAN_TWIST",
+          "weightValue": 8.0,
+          "reps": 20.0
+     },
+     {
+          "exerciseName": "V_UP",
+          "weightValue": null,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "SIT_UP",
+          "weightValue": null,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "HANGING_KNEE_RAISE",
+          "weightValue": null,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "CABLE_WOODCHOP",
+          "weightValue": 8.0,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "BARBELL_BENCH_PRESS",
+          "weightValue": 77.5,
+          "reps": 5.0
+     },
+     {
+          "exerciseName": "PULL_UP",
+          "weightValue": null,
+          "reps": 5.0
+     },
+     {
+          "exerciseName": "CABLE_CROSSOVER",
+          "weightValue": 28.0,
+          "reps": 12.0
+     },
+     {
+          "exerciseName": "ALTERNATING_DUMBBELL_BICEPS_CURL",
+          "weightValue": 28.0,
+          "reps": 12.0
+     },
+     {
+          "exerciseName": "INCLINE_REVERSE_FLYE",
+          "weightValue": 10.0,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "DUMBBELL_DIAGONAL_RAISE",
+          "weightValue": 16.0,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "SUSPENDED_PUSH_UP",
+          "weightValue": null,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "BARBELL_WRIST_CURL",
+          "weightValue": 8.0,
+          "reps": 12.0
+     },
+     {
+          "exerciseName": "STRETCH_SHOULDER",
+          "weightValue": 0.0,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "V_GRIP_CABLE_ROW",
+          "weightValue": 40.0,
+          "reps": 12.0
+     },
+     {
+          "exerciseName": "OVERHEAD_DUMBBELL_PRESS",
+          "weightValue": 16.0,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "CABLE_KICKBACK",
+          "weightValue": 8.0,
+          "reps": 12.0
+     },
+     {
+          "exerciseName": "RUN_OR_WALK",
+          "weightValue": null,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "DEADBUG",
+          "weightValue": null,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "ALTERNATING_SIT_UP",
+          "weightValue": null,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "HIP_RAISE",
+          "weightValue": null,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "TURKISH_GET_UP",
+          "weightValue": 16.0,
+          "reps": 2.0
+     },
+     {
+          "exerciseName": "AIR_SQUAT",
+          "weightValue": 40.0,
+          "reps": 6.0
+     },
+     {
+          "exerciseName": "TRAP_BAR_DEADLIFT",
+          "weightValue": 40.0,
+          "reps": 5.0
+     },
+     {
+          "exerciseName": "DUMBBELL_BULGARIAN_SPLIT_SQUAT",
+          "weightValue": 16.0,
+          "reps": 20.0
+     },
+     {
+          "exerciseName": "WEIGHTED_LEG_EXTENSIONS",
+          "weightValue": 40.0,
+          "reps": 12.0
+     },
+     {
+          "exerciseName": "HAMSTRING_CURLS",
+          "weightValue": 40.0,
+          "reps": 12.0
+     },
+     {
+          "exerciseName": "WEIGHTED_SEATED_CALF_RAISE",
+          "weightValue": 50.0,
+          "reps": 12.0
+     },
+     {
+          "exerciseName": "WEIGHTED_STANDING_HIP_ABDUCTION",
+          "weightValue": 30.0,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "WEIGHTED_STANDING_ADDUCTION",
+          "weightValue": 30.0,
+          "reps": 10.0
+     },
+     {
+          "exerciseName": "STRETCH_90_90",
+          "weightValue": null,
+          "reps": 10.0
+     }
+]
